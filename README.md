@@ -3,10 +3,13 @@ Minimalistic music player
 #
 # 📲 [Download](https://github.com/Theultimatecreator/Music-Player/releases/download/v1.0/app-debug.apk)
 
-**📸 Screenshots**                                                                         
-![Screenshot_20241029_132801_Music Player](https://github.com/user-attachments/assets/66b6c189-23ed-4a91-811f-79a178d5d762)
-![Screenshot_20241029_132823_Music Player](https://github.com/user-attachments/assets/36ebd3dd-992f-436d-989a-dde88c42a4bb)
-![Screenshot_20241029_132835_Music Player](https://github.com/user-attachments/assets/ed72e837-afba-4549-ae1b-e9a003a526c3)
+**📸 Screenshots**  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66b6c189-23ed-4a91-811f-79a178d5d762" width="200">
+  <img src="https://github.com/user-attachments/assets/36ebd3dd-992f-436d-989a-dde88c42a4bb" width="200">
+  <img src="https://github.com/user-attachments/assets/ed72e837-afba-4549-ae1b-e9a003a526c3" width="200">
+</p>
+
 #
 
 🔍 About               
@@ -17,13 +20,13 @@ It is a music player.
 
 🛠️ Technologies   
 
-Compose - for awesome ui and better performance than xml.                                               
-Coroutines - for asyncronous programming.                                                
-MVI - for clear codeing and pattern.                                                                                               
-Multi moduling- for clean Architecture.                                                                         
-Motion layout - for animation in compose.                                               
-Media Payer - for playing music.                                                                        
-Service - for backround tasks and notification.                                                    
+**Compose** - for awesome ui and better performance than xml.                                               
+**Coroutines** - for asyncronous programming.                                                
+**MVI** - for clear codeing and pattern.                                                                                               
+**Multi moduling** - for clean Architecture.                                                                         
+**Motion layout** - for animation in compose.                                               
+**Media Payer** - for playing music.                                                                        
+**Service** - for backround tasks and notification.                                                    
 
 #
 
