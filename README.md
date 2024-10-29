@@ -21,9 +21,9 @@ Compose - for awesome ui and better performance than xml.
 Coroutines - for asyncronous programming.                                                
 MVI - for clear codeing and pattern.                                                                                               
 Multi moduling- for clean Architecture.
-Motion layout - for animation in compose.
-Media Payer - for playing music.
-Service - for backround tasks and notification.
+Motion layout - for animation in compose.                                               
+Media Payer - for playing music.                                                                        
+Service - for backround tasks and notification.                                                    
 
 #
 
